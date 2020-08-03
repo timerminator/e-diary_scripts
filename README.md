@@ -10,7 +10,7 @@
 
 Запуск на Linux или Windows:
 
-```bash
+```python
 
 $ python manage.py shell
 >>> from scripts import *
